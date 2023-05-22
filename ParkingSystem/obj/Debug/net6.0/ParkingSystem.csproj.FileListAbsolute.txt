@@ -1,0 +1,15 @@
+/home/user/RiderProjects/ConsoleApp2/ParkingSystem/bin/Debug/net6.0/ParkingSystem
+/home/user/RiderProjects/ConsoleApp2/ParkingSystem/bin/Debug/net6.0/ParkingSystem.deps.json
+/home/user/RiderProjects/ConsoleApp2/ParkingSystem/bin/Debug/net6.0/ParkingSystem.runtimeconfig.json
+/home/user/RiderProjects/ConsoleApp2/ParkingSystem/bin/Debug/net6.0/ParkingSystem.dll
+/home/user/RiderProjects/ConsoleApp2/ParkingSystem/bin/Debug/net6.0/ref/ParkingSystem.dll
+/home/user/RiderProjects/ConsoleApp2/ParkingSystem/bin/Debug/net6.0/ParkingSystem.pdb
+/home/user/RiderProjects/ConsoleApp2/ParkingSystem/obj/Debug/net6.0/ParkingSystem.csproj.AssemblyReference.cache
+/home/user/RiderProjects/ConsoleApp2/ParkingSystem/obj/Debug/net6.0/ParkingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/RiderProjects/ConsoleApp2/ParkingSystem/obj/Debug/net6.0/ParkingSystem.AssemblyInfoInputs.cache
+/home/user/RiderProjects/ConsoleApp2/ParkingSystem/obj/Debug/net6.0/ParkingSystem.AssemblyInfo.cs
+/home/user/RiderProjects/ConsoleApp2/ParkingSystem/obj/Debug/net6.0/ParkingSystem.csproj.CoreCompileInputs.cache
+/home/user/RiderProjects/ConsoleApp2/ParkingSystem/obj/Debug/net6.0/ParkingSystem.dll
+/home/user/RiderProjects/ConsoleApp2/ParkingSystem/obj/Debug/net6.0/ref/ParkingSystem.dll
+/home/user/RiderProjects/ConsoleApp2/ParkingSystem/obj/Debug/net6.0/ParkingSystem.pdb
+/home/user/RiderProjects/ConsoleApp2/ParkingSystem/obj/Debug/net6.0/ParkingSystem.genruntimeconfig.cache
