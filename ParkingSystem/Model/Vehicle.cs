@@ -7,4 +7,5 @@ public class Vehicle
     public string Color { get; set; }
     public int SlotNumber { get; set; }
     public DateTime CheckInTime { get; set; }
+    
 }

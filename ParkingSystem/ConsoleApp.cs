@@ -68,5 +68,3 @@ public class ConsoleApp
         }
     }
 }
-
-// Console.WriteLine($"Park '{licensePlate}' '{color}' '{type}' . Allocated slot number '{Vehicles.Count}'");
